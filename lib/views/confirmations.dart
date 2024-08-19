@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 import 'package:musong_cafe/menu/menu.dart';
-// import 'package:musong_cafe/views/pay.dart';
+
 import 'package:musong_cafe/views/pay_confirmations.dart';
 
 class Confirmations extends StatelessWidget {
